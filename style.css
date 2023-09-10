@@ -1,0 +1,53 @@
+#navbar {
+    height: 120px;
+border-left: 100px;
+background-color: #e4eef3e2;
+padding: 30px 25px ;
+}
+
+#quote {
+background-color: hsla(16, 100%, 50%, 0.566);
+position: relative;
+bottom: 15px;
+}
+a {
+margin-right: 100px;
+position: relative;
+bottom: 13px;
+}
+#welcome {
+    font-size: 100px;
+padding-left: 25px;
+background-color: #e4eef3e2;
+}
+#para1 {
+    font-size: 28px;
+}
+
+#testimonial {
+
+padding-left: 330px;
+}
+
+
+.orange {
+display: inline-block;
+border:1px solid #000000;
+margin-left: 160px;
+width: 200px;
+height: 300px;
+
+}
+.placeholder {
+    border: none;
+    border-bottom: 2px;
+}
+
+.lists {
+display: inline-block;
+padding-left: 150px;
+}
+.Copyright {
+    background-color: hwb(193 68% 17% / 0.604);
+    color: black;
+}
